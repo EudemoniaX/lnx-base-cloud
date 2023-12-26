@@ -1,0 +1,3 @@
+#????????????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.lnx.base.db.config.MyBatisPlusConfig
